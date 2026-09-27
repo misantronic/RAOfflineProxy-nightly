@@ -14,7 +14,7 @@ Automated development builds of [RAOfflineProxy](https://github.com/misantronic/
 | Platform | Release |
 |---|---|
 | Android | [`nightly-android`](https://github.com/misantronic/RAOfflineProxy-nightly/releases/tag/nightly-android) |
-| Linux (KNULLI, Onion, muOS, ROCKNIX, spruce, Allium, dArkOS) | [`nightly-linux`](https://github.com/misantronic/RAOfflineProxy-nightly/releases/tag/nightly-linux) |
+| Linux | [`nightly-linux`](https://github.com/misantronic/RAOfflineProxy-nightly/releases/tag/nightly-linux) |
 
 Each release is replaced automatically whenever the Android or Linux code changes. The release notes link the exact commit it was built from.
 
