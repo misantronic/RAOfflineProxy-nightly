@@ -15,8 +15,9 @@ Automated development builds of [RAOfflineProxy](https://github.com/misantronic/
 |---|---|
 | Android | [`nightly-android`](https://github.com/misantronic/RAOfflineProxy-nightly/releases/tag/nightly-android) |
 | Linux | [`nightly-linux`](https://github.com/misantronic/RAOfflineProxy-nightly/releases/tag/nightly-linux) |
+| Windows | [`nightly-linux`](https://github.com/misantronic/RAOfflineProxy-nightly/releases/tag/nightly-linux), file `RAOfflineProxy-Windows-v<version>.zip` |
 
-Each release is replaced automatically whenever the Android or Linux code changes. The release notes link the exact commit it was built from.
+Each release is replaced automatically whenever the Android, Linux or Windows code changes. The release notes link the exact commit it was built from.
 
 Installation works exactly like the stable version, see the [documentation](https://raofflineproxy.com).
 
